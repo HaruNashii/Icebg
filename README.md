@@ -79,6 +79,16 @@ X11 is **not supported**.
 
 ## 🚀 Installation
 
+#### AUR (Recommended):
+
+```paru -S icebg-git```
+
+or
+
+```yay -S icebg-git```
+
+--
+
 #### **Building From Source:**
 
 Requirements for building:
